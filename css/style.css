@@ -1,0 +1,70 @@
+
+body {
+  background-image: url('http://www.walldevil.com/wallpapers/a58/desktop-wallpaper-wallpapers-pixel-animals-skin-textures-giraffes-large-giraffe.jpg');
+}
+
+header {
+  float: left;
+  width: 70%;
+  margin: 13px;
+  border-radius: 10px;
+  text-align: center;
+  color: #FFF;
+  text-shadow: 2px 2px #696969;
+}
+
+img {
+  border-radius: 10px;
+  display: block;
+  margin: 3px auto;
+}
+
+
+
+a {
+  margin: 14px;
+  text-shadow: none;
+  text-decoration: none;
+}
+
+ul {
+  text-decoration: none;
+}
+
+header, .description, .deal-breaker {
+  background-color: rgba(183, 191, 200, 0.5);
+  text-shadow: 2px 2px #696969;
+}
+
+.social-media {
+  margin: 10px 0;
+}
+
+.description {
+  border-radius: 10px;
+  float: left;
+  width: 28%;
+  margin: 13px 0;
+  color: #FFF;
+}
+
+.description h2 {
+  margin: 8px 14px;
+}
+
+.description p {
+  padding: 13px;
+  margin: 10px;
+}
+
+.deal-breaker {
+  clear: both;
+  text-align: left;
+  border-radius: 10px;
+  color: #FFF;
+}
+
+.deal-breaker h2, ul {
+  padding: 9px;
+  margin: 0 21px;
+}
