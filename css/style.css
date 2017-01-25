@@ -19,7 +19,9 @@ img {
   margin: 3px auto;
 }
 
+header h1, h2 {
 
+}
 
 a {
   margin: 14px;
@@ -46,6 +48,7 @@ header, .description, .deal-breaker {
   width: 28%;
   margin: 13px 0;
   color: #FFF;
+  height: 566px;
 }
 
 .description h2 {
